@@ -1,0 +1,10 @@
+style.css e eklenecek:
+
+.v-verticallayout, .v-horizontallayout{
+	border:0.1px solid rgba(16, 187, 9, 0.47); !important;
+	padding: 5px; !important;
+}
+
+Veritabanı adı:
+
+testuniversal
